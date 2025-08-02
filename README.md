@@ -6,6 +6,9 @@ This project uses Azure Logic Apps to process taxi trip events in real-time, ana
 
 ![8ee010b6-8ef8-457b-a7e5-d07bfbec34ca](https://github.com/user-attachments/assets/0fe3a601-b002-4c68-8ed3-86f5d501f5fe)
 
+<img width="1470" height="956" alt="Screenshot 2025-08-01 at 8 49 20 PM" src="https://github.com/user-attachments/assets/aa24e867-4422-4d17-b463-841f4e967bde" />
+
+
 
 ## What It Does
 * Connects to an Azure Event Hub to receive incoming taxi trip data.
